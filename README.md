@@ -1,1 +1,1 @@
-# data-apps
+# data-science-apps
